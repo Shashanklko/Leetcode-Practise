@@ -23,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0226-invert-binary-tree) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
