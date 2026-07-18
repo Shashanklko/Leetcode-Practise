@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0739-daily-temperatures) |
@@ -111,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
