@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0739-daily-temperatures) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0242-valid-anagram) |
 ## Dynamic Programming
 |  |
