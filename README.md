@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0242-valid-anagram) |
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
@@ -149,5 +151,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
