@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
+| [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0977-squares-of-a-sorted-array) |
 ## String Matching
 |  |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0713-subarray-product-less-than-k) |
 | [1652-defuse-the-bomb](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1652-defuse-the-bomb) |
