@@ -1,26 +1,22 @@
 class Solution {
     public boolean checkInclusion(String s1, String s2) {
-        if (s1.length() > s2.length()) {
+
+        int m = s1.length();
+        int n = s2.length();
+
+        if (m > n) {
             return false;
         }
 
-        int[] target = new int[26];
-        int[] window = new int[26];
+        char[] target = s1.toCharArray();
+        Arrays.sort(target);
 
-        for (char c : s1.toCharArray()) {
-            target[c - 'a']++;
-        }
+        for (int i = 0; i <= n - m; i++) {
 
-        int k = s1.length();
+            char[] window = s2.substring(i, i + m).toCharArray();
+            Arrays.sort(window);
 
-        for (int i = 0; i < s2.length(); i++) {
-            window[s2.charAt(i) - 'a']++;
-
-            if (i >= k) {
-                window[s2.charAt(i - k) - 'a']--;
-            }
-
-            if (java.util.Arrays.equals(target, window)) {
+            if (Arrays.equals(target, window)) {
                 return true;
             }
         }
