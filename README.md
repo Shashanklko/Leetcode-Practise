@@ -195,4 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
