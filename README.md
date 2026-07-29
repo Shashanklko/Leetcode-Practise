@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0183-customers-who-never-order) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0596-classes-with-at-least-5-students) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1075-project-employees-i) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
