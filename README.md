@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0596-classes-with-at-least-5-students](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0596-classes-with-at-least-5-students) |
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1075-project-employees-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1075-project-employees-i) |
+| [1084-sales-analysis-iii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1084-sales-analysis-iii) |
 | [1211-queries-quality-and-percentage](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1211-queries-quality-and-percentage) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
