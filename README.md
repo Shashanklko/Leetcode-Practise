@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1480-running-sum-of-1d-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1652-defuse-the-bomb) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Math
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1004-max-consecutive-ones-iii) |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -258,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1211-queries-quality-and-percentage](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1211-queries-quality-and-percentage) |
 | [1683-invalid-tweets](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1757-recyclable-and-low-fat-products) |
+## Counting
+|  |
+| ------- |
+| [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 <!---LeetCode Topics End-->
