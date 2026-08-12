@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1652-defuse-the-bomb) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shashanklko/Leetcode-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0904-fruit-into-baskets) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shashanklko/Leetcode-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -264,4 +266,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Shashanklko/Leetcode-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
