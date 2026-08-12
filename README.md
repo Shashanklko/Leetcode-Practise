@@ -280,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shashanklko/Leetcode-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
