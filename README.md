@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0739-daily-temperatures) |
 | [0904-fruit-into-baskets](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0904-fruit-into-baskets) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0611-valid-triangle-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0611-valid-triangle-number) |
+| [0704-binary-search](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
