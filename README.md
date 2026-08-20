@@ -284,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
