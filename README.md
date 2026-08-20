@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Array
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0155-min-stack) |
 | [0303-range-sum-query-immutable](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0901-online-stock-span) |
 ## Hash Table
 |  |
 | ------- |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0901-online-stock-span) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Two Pointers
 |  |
@@ -288,4 +291,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0020-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
