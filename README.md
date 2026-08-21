@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
+| [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0303-range-sum-query-immutable](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0215-kth-largest-element-in-an-array) |
+| [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
 ## Quickselect
 |  |
 | ------- |
@@ -307,8 +310,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0084-largest-rectangle-in-histogram) |
+| [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
+| [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
