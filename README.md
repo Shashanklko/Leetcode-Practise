@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0901-online-stock-span](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0933-number-of-recent-calls) |
 ## Hash Table
 |  |
 | ------- |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0933-number-of-recent-calls) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
+| [0933-number-of-recent-calls](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
