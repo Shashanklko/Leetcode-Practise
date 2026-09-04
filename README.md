@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0611-valid-triangle-number) |
 | [0643-maximum-average-subarray-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0704-binary-search) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0904-fruit-into-baskets](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0904-fruit-into-baskets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shashanklko/Leetcode-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Monotonic Stack
@@ -204,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0242-valid-anagram) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0904-fruit-into-baskets) |
@@ -327,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shashanklko/Leetcode-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Floyd's Cycle Finding Algorithm
