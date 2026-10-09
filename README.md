@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0189-rotate-array) |
@@ -408,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
 ## Simulation
 |  |
