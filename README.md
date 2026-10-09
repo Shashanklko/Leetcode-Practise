@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
 | [0611-valid-triangle-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0611-valid-triangle-number) |
