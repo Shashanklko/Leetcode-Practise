@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0067-add-binary) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
+| [0189-rotate-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0189-rotate-array) |
 ## Design
 |  |
 | ------- |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
