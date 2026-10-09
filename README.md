@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0410-split-array-largest-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
 | [0424-longest-repeating-character-replacement](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0496-next-greater-element-i) |
@@ -227,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0611-valid-triangle-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0977-squares-of-a-sorted-array) |
@@ -266,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0611-valid-triangle-number) |
 | [0704-binary-search](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0704-binary-search) |
@@ -403,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
 ## Simulation
 |  |
 | ------- |
