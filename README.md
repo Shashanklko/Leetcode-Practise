@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/Shashanklko/Leetcode-Practise/tree/master/1652-defuse-the-bomb) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shashanklko/Leetcode-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0168-excel-sheet-column-title) |
 | [0189-rotate-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2965-find-missing-and-repeated-values) |
 ## Design
 |  |
 | ------- |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0594-longest-harmonious-subsequence) |
 | [0609-find-duplicate-file-in-system](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0609-find-duplicate-file-in-system) |
 | [0904-fruit-into-baskets](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0904-fruit-into-baskets) |
+| [2965-find-missing-and-repeated-values](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2965-find-missing-and-repeated-values) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Shashanklko/Leetcode-Practise/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Monotonic Stack
 |  |
@@ -446,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0075-sort-colors) |
+## Matrix
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
