@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0567-permutation-in-string) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0410-split-array-largest-sum) |
 | [0611-valid-triangle-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0611-valid-triangle-number) |
@@ -388,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -455,4 +460,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2965-find-missing-and-repeated-values](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2965-find-missing-and-repeated-values) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
