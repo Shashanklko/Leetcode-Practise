@@ -3,7 +3,7 @@ import java.util.*;
 class Solution {
     public List<List<Integer>> fourSum(int[] nums, int target) {
         Arrays.sort(nums);
-        Set<List<Integer>> ans = new LinkedHashSet<>();
+        Set<List<Integer>> ans = new HashSet<>();
         int n = nums.length;
         
         for (int i = 0; i < n; i++) {
