@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0056-merge-intervals) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0012-integer-to-roman) |
+| [0036-valid-sudoku](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0142-linked-list-cycle-ii) |
@@ -467,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/Shashanklko/Leetcode-Practise/tree/master/0074-search-a-2d-matrix) |
 | [2965-find-missing-and-repeated-values](https://github.com/Shashanklko/Leetcode-Practise/tree/master/2965-find-missing-and-repeated-values) |
 ## Pigeonhole Principle
